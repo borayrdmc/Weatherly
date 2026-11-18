@@ -367,7 +367,7 @@ npm run lint     # ESLint 9 ile kod kalitesi denetimi yapar
 
 ---
 
-<div align="center">
+<div align="center"> 
 
 [@borayrdmc](https://github.com/borayrdmc) tarafından geliştirildi.
 
