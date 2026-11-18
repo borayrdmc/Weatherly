@@ -367,22 +367,6 @@ npm run lint     # ESLint 9 ile kod kalitesi denetimi yapar
 
 ---
 
-## 🗺 Yol Haritası
-
-- [x] OpenWeather OneCall 3.0 ve Direct/Reverse Geocoding 1.0 entegrasyonu
-- [x] `CityNameNormalizer` ile Türkçe karakter normalizasyonu
-- [x] HTML5 Geolocation API ile tek tıkla mevcut konum tespiti
-- [x] `exclude=minutely,alerts` ile %72.1 veri boyutu optimizasyonu
-- [x] Çift kademeli Next.js Data Cache (`revalidate: false` ve `3600s`)
-- [x] Recharts ile masaüstü (12 saat) ve mobil (7 nokta) uyarlanabilir sıcaklık grafiği
-- [x] Türkçe / İngilizce i18n desteği ve °C / °F / K anlık birim dönüşüm motoru
-- [ ] Favori şehirler listesi ve hızlı geçiş çubuğu
-- [ ] Hava Kalitesi İndeksi (AQI) ve polen yoğunluğu modülü
-- [ ] Şiddetli yağış ve fırtına durumları için Web Push tarayıcı bildirimleri
-- [ ] PWA (Progressive Web App) ile çevrimdışı çalışma desteği
-
----
-
 <div align="center">
 
 [@borayrdmc](https://github.com/borayrdmc) tarafından geliştirildi.
